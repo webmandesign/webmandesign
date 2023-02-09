@@ -7,6 +7,12 @@ I create open source software, mainly focused on [accessibility ready WordPress 
 
 ---
 
+- ❓ Searching for a theme **documentation**? [Choose the one for your theme](https://webmandesign.github.io/docs/).
+- ❓ Searching for a **demo content**? [Open the folder with your theme name](https://github.com/webmandesign/demo-content).
+- ❓ Searching for a **child theme**? [Get it now](https://github.com/webmandesign/child-theme).
+
+---
+
 Find me at:  
 [WebManDesign.eu](https://www.webmandesign.eu/) • [ThemeForest](https://themeforest.net/user/webmandesign) • [WordPress](https://profiles.wordpress.org/webmandesign/) • [GitHub](https://github.com/webmandesign) • [Twitter](https://twitter.com/webmandesigneu) • [Facebook](https://www.facebook.com/webmandesigneu)
 
