@@ -3,7 +3,7 @@
 I create open source software, mainly focused on [accessibility ready WordPress themes](https://www.webmandesign.eu/project-tag/accessibility-ready/).
 
 - 🤔 I’m currently learning WordPress full site editng and how to build a block theme and block plugin.
-- 🤓 I’m currently working on an epic block theme with flexibility comparable to a classic theme. A true hybrid theme for real world usage.
+- 🤓 I’m currently working on an epic block theme with flexibility of a classic theme. A true hybrid theme for real world usage.
 
 ---
 
